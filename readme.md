@@ -10,7 +10,7 @@ Lucus always loves protagonists like most of us. But Dustin is quite crazy he li
 
 - Fork this repo
 - Clone this repo
-- Practice JavaScript basics - _operators, conditions, loops_
+- Practice CSS - _Flexbox, Grid_
 
 ## How do you submit?
 
